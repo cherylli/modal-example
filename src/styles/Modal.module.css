@@ -1,0 +1,22 @@
+.container {
+  position: fixed;
+  top: 50px;
+  left: 50%;
+  background-color: white;
+  border: 2px solid black;
+  width: 50%;
+  transform: translateX(-50%);
+  padding: 10px;
+  width: 50vw;
+  height: 50%;
+  z-index: 1000;
+  overflow: auto;
+}
+
+.btn {
+  background-color: #af904c;
+  padding: 5px;
+  margin-left: 10px;
+  border: 2px solid black;
+  cursor: pointer;
+}

@@ -1,0 +1,12 @@
+.container {
+  height: 100vh;
+}
+
+.btn {
+  background-color: #af904c;
+  color: black;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: 2px solid black;
+  cursor: pointer;
+}
